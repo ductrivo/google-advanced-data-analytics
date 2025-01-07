@@ -1,4 +1,5 @@
 # Google Advanced Data Analytics Professional Certificate
+Approximately 6 months at 10 hours a week to complete
 
 ![Certificate](images/Certificate.png)
 
@@ -8,7 +9,7 @@ Verify link: [Coursera.com](https://coursera.org/share/259bcf0a05b0e8271a80ff3fe
 Those who earn the Google Advanced Data Analytics Certificate have completed seven courses that include hands-on, practice-based assessments and are designed to prepare them for advanced roles in
 data analytics and entry-level roles in data science. They are competent in exploring large datasets, applying data analysis techniques, and building models to extract insights. They are also competent in machine learning, predictive modeling, and statistics.
 
-### Course:
+### Courses:
 1. Foundations of Data Science  
 2. Get Started with Python  
 3. Go Beyond the Numbers: Translate Data into Insights  
